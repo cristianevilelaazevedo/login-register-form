@@ -15,6 +15,10 @@ Nesse projeto foram utilizados as seguintes tecnologias de frontend:
 
 O vídeo usado como referência para o projeto de estudo é do canal Codehal e está disponível no link: https://www.youtube.com/watch?v=KL4--AJrJHQ&t=1700s
 
+## Deploy
+
+<p>O deploy do projeto pode ser visualizado no link: <a href="https://login-register-form-blond.vercel.app/">Formulário de Login</a></p>
+
 ## Contato
 
 <div> 
